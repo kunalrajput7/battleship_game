@@ -1,0 +1,4 @@
+#Wed Nov 29 16:17:34 CST 2023
+base.0=C\:\\Users\\kunal\\github-classroom\\cs442app\\mp4-kunalrajputcr7\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
